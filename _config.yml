@@ -16,5 +16,6 @@ author:
 
 # Build settings
 markdown: kramdown
-
 source: blog
+sass:
+    sass_dir: /_sass
