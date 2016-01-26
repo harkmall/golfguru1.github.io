@@ -16,3 +16,5 @@ author:
 
 # Build settings
 markdown: kramdown
+
+source: blog
