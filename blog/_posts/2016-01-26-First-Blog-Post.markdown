@@ -3,7 +3,7 @@ layout: post
 title:  "First Blog Post"
 subtitle: "Getting things set up"
 date:   2016-01-26 13:21:01
-categories: [default]
+categories: [random]
 ---
 
 I am an iOS developer. I love writing iOS apps. I have thoughts on iOS and the development of the apps that run on the beautiful operating system that it is. So, I thought I should write a blog, mostly for fun, but also maybe to learn something. Below is a recount of the arduous journey that I embarked on to add a blog to my personal site. Tears were shed, but in the end, success was had. Enjoy!
