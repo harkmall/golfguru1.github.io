@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Farewell Old Friend"
+subtitle: "Goodbye to a great service"
+date:   2016-01-30 18:20:01
+categories: [random, tools]
+---
 # Farewell Old Friend
 
 January 28 2017 marks the end of Parse as we know it. The foundation of many of my projects, Parse was, *(technically still is)*, one of the best options for a backend to mobile apps.
