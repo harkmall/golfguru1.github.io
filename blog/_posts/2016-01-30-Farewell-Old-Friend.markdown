@@ -29,4 +29,4 @@ After building many side projects with it, I have come to know and love Parse. T
 
  <img src="/assets/images/cry.png" width="300">
 
-I guess I know what I'll be doing for the next year. Getting to know this website quite well: https://parse.com/docs/server/guide#migrating
+I guess I know what I'll be doing for the next year. Getting to know this website quite well: <https://parse.com/docs/server/guide#migrating>
