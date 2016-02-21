@@ -33,7 +33,7 @@ There are plenty of people who can talk their way through a technical interview,
 
 
 
-#### So whats the solution??
+## So whats the solution??
 
 In my opinion, companies should give the interviewee a project and evaluate them based on their implementation of said project. The project should be something relevant to the company's interests, or even a bug in the live product. Outline the requirements of the project and give the candidate a deadline and let them complete it in their own style that allows them to be creative. Also, PAY THEM FOR THEIR TIME! Even if the solution is total crap, give them a small token to show that you appreciate their time. Upon completion, have the interviewee come into the office and present their solution, where you can pose questions and review the solution.
 
