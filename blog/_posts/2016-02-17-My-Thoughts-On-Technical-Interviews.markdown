@@ -39,15 +39,15 @@ This will be beneficial to both the company and the candidate, the candidate has
 Its a Win-Win.
 
 
-Now, I realize that hiring a software engineer is not a easy thing to do, false-positives (when you hire someone that doesn't end up meeting your standards) are a huge deal. But giving people a fighting chance by improving the interview process will reduce the risk of false-negatives (when you don't hire someone you should have) which, IMO, are much more tragic. Reading these stories http://rejected.us makes that clear. My favorite of which is Max Howell: <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.</p>&mdash; Max Howell (@mxcl) <a href="https://twitter.com/mxcl/status/608682016205344768">June 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Now, I realize that hiring a software engineer is not a easy thing to do, false-positives (when you hire someone that doesn't end up meeting your standards) are a huge deal. But giving people a fighting chance by improving the interview process will reduce the risk of false-negatives (when you don't hire someone you should have) which, IMO, are much more tragic. Reading these stories [http://rejected.us](http://rejected.us) makes that clear. My favorite of which is Max Howell: [https://twitter.com/mxcl/status/608682016205344768](https://twitter.com/mxcl/status/608682016205344768)
 
 
 ---
 The promised links that inspired this post:
 
-- http://techcrunch.com/2013/06/22/the-technical-interview-is-dead/
-- http://sockpuppet.org/blog/2015/03/06/the-hiring-post/
-- http://techcrunch.com/2015/03/08/on-secretly-terrible-engineers/
-- http://techcrunch.com/2015/03/21/the-terrible-technical-interview/
-- https://zachholman.com/posts/startup-interviewing-is-fucked/
-- http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/
+- [http://techcrunch.com/2013/06/22/the-technical-interview-is-dead/](http://techcrunch.com/2013/06/22/the-technical-interview-is-dead/)
+- [http://sockpuppet.org/blog/2015/03/06/the-hiring-post/](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+- [http://techcrunch.com/2015/03/08/on-secretly-terrible-engineers/](http://techcrunch.com/2015/03/08/on-secretly-terrible-engineers/)
+- [http://techcrunch.com/2015/03/21/the-terrible-technical-interview/](http://techcrunch.com/2015/03/21/the-terrible-technical-interview/)
+- [https://zachholman.com/posts/startup-interviewing-is-fucked/](https://zachholman.com/posts/startup-interviewing-is-fucked/)
+-[http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/)
