@@ -17,8 +17,11 @@ One of the articles linked below put it in a way that makes it seem completely i
 
 
 And if you think about it, its true. how many employed engineers
+
 - Work alone?
+
 - Work without access to documentation?
+
 - Work without access to the internet?
 
 *Spoiler Alert:* **NONE**
