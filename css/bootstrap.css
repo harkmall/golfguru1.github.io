@@ -1119,6 +1119,11 @@ figure {
 img {
   vertical-align: middle;
 }
+.cover {
+  object-fit: cover;
+  width: 50px;
+  height: 100px;
+}
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
