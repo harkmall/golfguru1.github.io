@@ -1,7 +1,3 @@
-plugins:
-  - jekyll-theme-minimal
-relative_links:
-  enabled: true
-  collections: true
+theme: jekyll-theme-minima
 include:
   - README.md
