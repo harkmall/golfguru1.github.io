@@ -1,5 +1,5 @@
 plugins:
-  - jekyll-relative-links
+  - jekyll-theme-minimal
 relative_links:
   enabled: true
   collections: true

@@ -1,3 +1,3 @@
-# My Personal Website
+# Mark Hall
 
-All the information about me, live at [http://markhall.co](http://markhall.co)
+
